@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nwr:home|Door43 (nwr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nwr|d43-nwr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nwr/archive/master.zip|d43-nwr.zip]]
+
+**Recent Changes**
+{{changes>ns = nwr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nwr|Ethnologue data]]
+
